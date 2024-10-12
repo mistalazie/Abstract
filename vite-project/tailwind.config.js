@@ -11,7 +11,9 @@ export default {
         serif: ['Jost', 'Georgia', 'serif'],
       },
       colors : {
-        'solidStone' : "#222222"
+        'solidStone' : "#222222",
+        'peach': "#ffc4a6",
+        'Move': "#ebebeb"
       }
     },
   },
